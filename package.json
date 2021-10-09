@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/platzi-store.git"
+    "url": "git+https://github.com/Cristhho/platzi-store-travis.git"
   },
   "keywords": [
     "React",
@@ -21,7 +21,7 @@
     "React-router",
     "Redux"
   ],
-  "author": "Oscar Barajas <oscar@arepa.dev>",
+  "author": "Christian Ochoa",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.7.2",
@@ -55,9 +55,5 @@
     "eslint-plugin-react": "^7.14.3",
     "prettier": "^1.19.1",
     "webpack-dev-server": "^3.9.0"
-  },
-  "bugs": {
-    "url": "https://github.com/gndx/platzi-store/issues"
-  },
-  "homepage": "https://github.com/gndx/platzi-store/#readme"
+  }
 }
